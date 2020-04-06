@@ -2,7 +2,7 @@
 
 ### Background Information 
 Hi, Welcome to my Github page - Web Scrapping section.
-This is a Machine Learning project I conducted as a team with other graudate cohort at the Carlson School of Managemnet. As a team, we are creating an auto loan default classifier with 1 as default and 0 as no default.
+This is a Machine Learning project I conducted as a team with other graudate students as one cohort at the Carlson School of Managemnet. As a team, we are creating an auto loan default classifier with 1 as default and 0 as no default.
 
 ### Language Used 
 - Jupyter Notebook: Python
